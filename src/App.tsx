@@ -532,7 +532,7 @@ export default function App() {
         <div className="flex items-center gap-3">
           <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center overflow-hidden border-2 border-white shadow-sm">
             <img 
-              src="https://picsum.photos/seed/user-avatar/100/100" 
+              src="https://res.cloudinary.com/ddhcevbej/image/upload/v1773067513/HCG_ldiqdz.png" 
               alt="User" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
